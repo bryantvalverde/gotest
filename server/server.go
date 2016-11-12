@@ -29,7 +29,7 @@ func main() {
 		fmt.Printf("Received Packet at: %s\n", t.String())
 
 		tt := time.Now().Sub(*t)
-		fmt.Printf("Trip Time: %+v\n", tt)
+		fmt.Printf("Trip Time: %+v\n\n", tt)
 	}
 }
 
