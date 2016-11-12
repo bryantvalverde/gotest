@@ -1,4 +1,4 @@
-# WTF Traffic API - WTA-58 Go Network Tutorial
+# WTA-58 Go Network Tutorial
 
 Sample GoLang code to satisfy tutorial exercise.
 
