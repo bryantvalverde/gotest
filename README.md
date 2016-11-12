@@ -8,14 +8,14 @@ Clone files from github.com/bryantvalverde/gotest into your local machine $GOPAT
 ## Running
 Requires 2 terminals to run program
 
-### Terminal 1
+### Terminal 1 (Server)
 Navigate to $GOPATH/github.com/bryantvalverde/gotest/server and run receiver.
 ```
 go run server.go
 ```
 
 
-### Terminal 2
+### Terminal 2 (Client)
 Navigate to $GOPATH/github.com/bryantvalverde/gotest/client and run receiver.
 ```
 go run client.go
