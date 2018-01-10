@@ -1,4 +1,4 @@
-# WTA-58 Go Network Tutorial
+# Go Client-Server Test Program
 
 Sample GoLang code to satisfy tutorial exercise.
 
